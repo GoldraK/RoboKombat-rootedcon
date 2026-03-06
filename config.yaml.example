@@ -1,0 +1,42 @@
+# RoboCombat Configuration File
+# This file allows you to configure motor and servo behavior
+
+# Input mode: "xbox" for Xbox controller, "keyboard" for keyboard controls
+inputMode: xbox
+
+# Motor configuration
+motors:
+  # Invert motor A if wired backwards (true/false)
+  invertA: false
+  
+  # Invert motor B if wired backwards (true/false)
+  invertB: false
+
+# Servo configuration
+servos:
+  # Servo 1 position range (min and max angles in degrees 0-180)
+  servo1:
+    min: 0
+    max: 180
+  
+  # Servo 2 position range (min and max angles in degrees 0-180)
+  servo2:
+    min: 0
+    max: 180
+
+# Keyboard controls (only used when inputMode is "keyboard")
+# You can use: any letter (a-z), space, enter, tab, esc, up, down, left, right
+keyboard:
+  motorA:
+    forward: w
+    backward: s
+  motorB:
+    forward: i
+    backward: k
+  servo1:
+    min: a
+    max: d
+  servo2:
+    min: j
+    max: l
+  stop: space
