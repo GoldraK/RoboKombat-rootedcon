@@ -54,7 +54,7 @@ Aplicación de control para robots de combate diseñada para la competición **R
 ## 🚀 Instalación Rápida
 
 ### Opción 1: Descargar ejecutable pre-compilado
-1. Descarga `robocombat.exe` desde [Releases](https://github.com/tu-usuario/robocombat/releases)
+1. Descarga `robocombat.exe` desde [Releases](https://github.com/GoldraK/RoboKombat-rootedcon/releases)
 2. Descarga `config.yaml` de este repositorio
 3. Coloca ambos archivos en la misma carpeta
 4. ¡Listo para usar!
@@ -63,7 +63,7 @@ Aplicación de control para robots de combate diseñada para la competición **R
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/robocombat.git
+git clone https://github.com/GoldraK/RoboKombat-rootedcon.git
 cd robocombat
 
 # Instalar dependencias
@@ -267,7 +267,7 @@ Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 📞 Contacto
 
-¿Problemas o sugerencias? Abre un [Issue](https://github.com/tu-usuario/robocombat/issues) en GitHub.
+¿Problemas o sugerencias? Abre un [Issue](https://github.com/GoldraK/RoboKombat-rootedcon/issues) en GitHub.
 
 ---
 
